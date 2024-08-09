@@ -39,18 +39,8 @@ Prerequisites
     MySQL
     Laravel 8 or higher
 
-Installation
-Clone the Repository
-
-bash
-
-git clone https://github.com/yourusername/authentication-portal.git
-cd authentication-portal
 
 Install Dependencies
-
-bash
-
 composer install
 
 Set Up Environment
